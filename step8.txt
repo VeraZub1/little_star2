@@ -1,0 +1,32 @@
+
+ _______________________
+ commit d1239b6bbedb1d247772dc7bfbc1e1d693af9bca (HEAD -> master, origin/master, origin/HEAD)
+Merge: 25eef48 b164688
+Author: Chip Huyen <huyenntkvn@gmail.com>
+Date:   Tue Oct 29 00:27:18 2019 -0700
+
+    Merge pull request #9 from baogianghoangvu/missing-syntax-highlight
+    
+    Misc markdown edits
+
+commit b16468884b5b346057d197dabf76f79b10ce9ddb
+Author: BaoGiang HoangVu <hoangvubaogiang@gmail.com>
+Date:   Mon Oct 28 14:30:51 2019 +0700
+
+    Tidy trailing & leading spaces
+
+commit 7142d3f817136bf185965063308500f7eee1c79b
+Author: BaoGiang HoangVu <hoangvubaogiang@gmail.com>
+Date:   Mon Oct 28 14:29:50 2019 +0700
+
+
+    Missing py-syntax in readme.md
+
+commit b0d9121fffb563b9f88eebddfdf499c1625ce72b (HEAD -> master, origin/master)
+Author: VeraZub1 <57105424+VeraZub1@users.noreply.github.com>
+Date:   Fri Nov 8 14:22:17 2019 +0300
+
+    init Readme.md
+    
+    step 6
+
